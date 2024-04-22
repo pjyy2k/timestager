@@ -34,6 +34,11 @@ bashCopy code
 
 `pip install -r requirements.txt`
 
+Library install 과정에서 SSL 오류 발생하는 경우
+
+`pip --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org install tk screeninfo`
+
+
 Running the Application
 -----------------------
 
