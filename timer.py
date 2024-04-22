@@ -20,7 +20,7 @@ class OverlayTimer:
         self.clock.overrideredirect(True)
         self.clock.attributes('-topmost', True)
         self.clock.config(bg='white')
-        self.clock.attributes('-alpha', 0.5)
+        self.clock.attributes('-alpha', 0.7)
 
         self.label = tk.Label(self.clock, text="00:00:00.0", font=("Helvetica", 18, "bold"), bg='white', fg="black")
         self.label.pack()
