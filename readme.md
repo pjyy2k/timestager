@@ -41,7 +41,7 @@ Running the Application
 
 bashCopy code
 
-`python overlay_timer.py`
+`python timer.py`
 
 Usage
 -----
@@ -61,4 +61,4 @@ Troubleshooting
 Contact Information
 -------------------
 
-도움이 필요하거나 문의사항이 있을 경우 \[Your Name\]에게 \[Your Email\]로 연락주세요.
+도움이 필요하거나 문의사항이 있을 경우 \[저\]에게 \[deneb.jin@gmail.com\]로 연락주세요.
